@@ -1,6 +1,4 @@
-# java_labs_km13_zaichenko
-
-Java Programming Labs Repository ☕
+#Java Programming Labs Repository ☕
 
 Welcome to my GitHub repository, housing a thoughtfully curated collection of hands-on labs tailored to enrich my Java programming experience. Through this repository, you'll find a showcase of my practical skills and explorations in Java, covering essential concepts and advanced techniques.
 
